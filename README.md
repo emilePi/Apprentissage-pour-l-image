@@ -6,5 +6,6 @@ Slides : [Course I](https://github.com/emilePi/Apprentissage-pour-l-image/blob/m
 
 ## Cours 2 : 09/03/2023
 
+Slides :   [Presentation of TP1](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/Slides/Presentation_TP1.pdf)
 TP    : [TP1](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/TP/1_M1MAS_multiclass_logistic_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage-pour-l-image/blob/main/TP/1_M1MAS_multiclass_logistic_regression.ipynb)
 
