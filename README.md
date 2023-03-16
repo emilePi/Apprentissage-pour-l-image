@@ -14,7 +14,7 @@ TP    : [TP1](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/TP
 
 ## Cours 3 : 16/03/2023
 
-Slides : [Course III](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/Slides/2_introduction_to_neural_networks.pdf)
+Slides : [Course II](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/Slides/2_introduction_to_neural_networks.pdf)
 
 
 TP : [TP2](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP2.ipynb)
