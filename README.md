@@ -21,7 +21,7 @@ TP : [TP2](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP
 
 ## Cours 4 : 23/03/2023
 
-Slides : [Course III]
+Slides : [Course III]()
 
 
 TP : [TP3]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
