@@ -18,3 +18,10 @@ Slides : [Course II](https://github.com/emilePi/Apprentissage-pour-l-image/blob/
 
 
 TP : [TP2](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP2.ipynb)
+
+## Cours 4 : 23/03/2023
+
+Slides : [Course III]
+
+
+TP : [TP3]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
