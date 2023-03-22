@@ -25,7 +25,7 @@ Slides : [Course III](https://github.com/emilePi/Apprentissage-pour-l-image/blob
 
 
 
-TP : [TP3](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP3.ipynb) (Not available for the moment)
+TP : [TP3](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP3.ipynb)
 
 ## Cours 5 : 30/03/2023
 
