@@ -29,7 +29,7 @@ TP : [TP3](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP
 
 ## Cours 5 : 30/03/2023
 
-Slides : [Final slides](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/Slides/Final slides.pdf) (Not available for the moment)
+Slides : [Final slides](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/Slides/Final%20slides.pdf)
 
 
 
