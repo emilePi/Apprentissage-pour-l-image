@@ -1,5 +1,12 @@
 # Apprentissage pour l'image
 
+## Evaluation : 
+
+[Sujet du projet final](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/Project/Project_final_2023.ipynb) (pas disponible pour le moment)
+
+Le projet est à rendre pour le **jeudi 30 avril**.
+
+
 ## Cours 1 : 02/03/2023
 
 Slides : [Course I](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/Slides/1_introduction_to_neural_networks.pdf)
@@ -35,9 +42,4 @@ Slides : [Final slides](https://github.com/emilePi/Apprentissage-pour-l-image/bl
 
 TP : [TP4](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP4.ipynb)
 
-## Evaluation : 
-
-[Sujet du projet final](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/Project/Project_final_2023.ipynb) (pas disponible pour le moment)
-
-Le projet est à rendre pour le TBA.
 
