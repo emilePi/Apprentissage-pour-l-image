@@ -2,7 +2,7 @@
 
 ## Evaluation : 
 
-[Sujet du projet final](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/TP/Projet_2023.ipynb) (pas disponible pour le moment)
+[Sujet du projet final](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/TP/Projet_2023.ipynb) : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage-pour-l-image/blob/main/TP/Projet_2023.ipynb)
 
 Le projet est à rendre pour le <font color="red">**jeudi 30 avril**.
 
