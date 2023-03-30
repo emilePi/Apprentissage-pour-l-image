@@ -4,8 +4,7 @@
 
 [Sujet du projet final](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/Project/Project_final_2023.ipynb) (pas disponible pour le moment)
 
-Le projet est à rendre pour le <font color="red">**jeudi 30 avril**.</font>
-
+Le projet est à rendre pour le <font color="red">**jeudi 30 avril**.
 
 ## Cours 1 : 02/03/2023
 
