@@ -3,7 +3,7 @@
 
 ## Cours 4 : 28/03/2024
 
-Slides : [Course III](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/Slides/3_deep_neural_networks.pdf)
+Slides : [Course IV](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/Slides/3_deep_neural_networks.pdf)
 
 TP : [TP3](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP3.ipynb)
 
