@@ -8,7 +8,7 @@ TP : [TP2](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP
 
 TP : [TP3](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP3.ipynb)
 
-Corrigé : [Corrigé TP1](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/TP/Corr_TP3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage-pour-l-image/blob/main/TP/Corr_TP3.ipynb)
+Corrigé : [Corrigé TP3](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/TP/Corr_TP3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage-pour-l-image/blob/main/TP/Corr_TP3.ipynb)
 
 
 TP : [TP4](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP4.ipynb)
