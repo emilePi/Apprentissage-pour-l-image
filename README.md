@@ -4,7 +4,7 @@
 
 Slides : [Course V](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/Slides/Final_slides.pdf)
 
-TP : [TP3](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP4.ipynb)
+TP4 : [TP4](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage-pour-l-image/blob/main/TP/TP4.ipynb)
 
 ## Cours 4 : 28/03/2024
 
