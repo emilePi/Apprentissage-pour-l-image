@@ -1,6 +1,6 @@
 # Apprentissage pour l'image
 
-## Cours 4 : 04/04/2024
+## Cours 5 : 04/04/2024
 
 Slides : [Course V](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/Slides/Final_slides.pdf)
 
