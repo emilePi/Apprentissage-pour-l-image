@@ -1,5 +1,9 @@
 # Apprentissage pour l'image
 
+## Projet à rendre pour le 12/05/2024
+
+Projet : [Projet](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/Projet/Projet.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage-pour-l-image/blob/main/Projet/Projet.ipynb)
+
 ## Cours 5 : 04/04/2024
 
 Slides : [Course V](https://github.com/emilePi/Apprentissage-pour-l-image/blob/main/Slides/Final_slides.pdf)
